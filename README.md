@@ -1,3 +1,6 @@
+React tutorial to create a tic-tac-toe web game. Tutorial can be found [here](https://reactjs.org/tutorial/tutorial.html).
+===
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
